@@ -12,5 +12,5 @@
 
 参考[https://developer.android.com/about/dashboards/index.html](https://developer.android.com/about/dashboards/index.html)
 
-开发只面向4.0以上系统的。
+开发只面向4.0以上系统的。即API15
 
